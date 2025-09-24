@@ -1,0 +1,18 @@
+#!/bin/bash
+echo "Setting up project"
+mkdir -p src data output
+chmod +x setup_project.sh
+
+# create student.csv untill encountering EOF --> end of file
+cat > data/student.csv << 'EOF'
+name,age,grade,subject
+Alice,20,85, math, 
+Bob,19,92,french, 
+Kate,21,79, math,
+Alex, 20, 79, math,
+Lily, 22, 100, physics,
+Liz,23, 88, english,
+Bernie, 87, physics
+
+EOF
+cat data/student.csv.csv
