@@ -1,7 +1,4 @@
-basic analysis report
-Total Students: 8
-Average Grade: 87.6
-Math Students: 4COMPREHENSIVE STUDENT ANALYSIS REPORT
+COMPREHENSIVE STUDENT ANALYSIS REPORT
 ==================================================
 
 BASIC STATISTICS
