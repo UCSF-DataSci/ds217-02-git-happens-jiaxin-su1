@@ -1,0 +1,28 @@
+basic analysis report
+Total Students: 8
+Average Grade: 87.6
+Math Students: 4COMPREHENSIVE STUDENT ANALYSIS REPORT
+==================================================
+
+BASIC STATISTICS
+--------------------
+Total students: 8
+Average grade: 87.6
+Highest grade: 100
+Lowest grade: 79
+Grade range: 21
+
+SUBJECT COUNTS
+--------------------
+English: 1
+French: 1
+Math: 4
+Physics: 2
+
+GRADE DISTRIBUTION (Letter Grades)
+-----------------------------------
+A: 3 (37.5%)
+B: 3 (37.5%)
+C: 2 (25.0%)
+D: 0 (0.0%)
+F: 0 (0.0%)
