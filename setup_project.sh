@@ -4,18 +4,18 @@ mkdir -p src data output
 chmod +x setup_project.sh # make the script executable 
 
 # create student.csv untill encountering EOF --> end of file
-cat > data/student.csv << 'EOF'
+cat > data/students.csv << 'EOF'
 name,age,grade,subject
-Alice,20,85, math, 
-Bob,19,92,french, 
-Kate,21,79, math,
-Alex, 20, 79, math,
-Lily, 22, 100, physics,
-Liz,23, 88, english,
-Bernie, 87, physics
-
+Alice,20,85, math
+Bob,19,92,french 
+Kate,21,79, math
+Alex, 20, 79, math
+Lily, 22, 100, physics
+Liz,23, 88, english
+Bernie, 22, 87, physics
+Grace,21,91,Math
 EOF
-cat data/student.csv.csv
+cat data/students.csv.csv
 
 # src/data_analysis.py
 cat > src/data_analysis.py << 'EOF'
