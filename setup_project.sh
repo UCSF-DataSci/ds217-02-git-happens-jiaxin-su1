@@ -29,6 +29,9 @@ cat > src/data_analysis_function.py << 'EOF'
 # functions for data analysis
 
 EOF
+
+touch .gitignore # simple way to create an empty .gitignore file
+
 cat src/data_analysis_function.py
 
 # output/
